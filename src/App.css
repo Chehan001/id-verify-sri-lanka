@@ -17,7 +17,7 @@ body {
   position: relative;
   min-height: 100vh;
   overflow: hidden;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #4ee7c1 0%, #02442a 100%);
 }
 
 /* Animated Background Orbs */
@@ -42,7 +42,7 @@ body {
 .orb-1 {
   width: 500px;
   height: 500px;
-  background: radial-gradient(circle, #3b82f6 0%, transparent 70%);
+  background: radial-gradient(circle, #4ee7c1 0%, transparent 70%);
   top: -250px;
   left: -250px;
   animation-delay: 0s;
@@ -51,7 +51,7 @@ body {
 .orb-2 {
   width: 400px;
   height: 400px;
-  background: radial-gradient(circle, #8b5cf6 0%, transparent 70%);
+  background: radial-gradient(circle,#02442a 0%, transparent 70%);
   bottom: -200px;
   right: -200px;
   animation-delay: 7s;
@@ -60,7 +60,7 @@ body {
 .orb-3 {
   width: 350px;
   height: 350px;
-  background: radial-gradient(circle, #06b6d4 0%, transparent 70%);
+  background: radial-gradient(circle,#21c29a 0%, transparent 70%);
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
